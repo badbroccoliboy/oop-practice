@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[98]:
 
 
 
@@ -47,7 +44,7 @@ class Saving(Account):
         Saving.deposit(self, self.balance*self.interest)
 
 
-# In[110]:
+
 
 
 
@@ -79,7 +76,6 @@ def payment(sender, recipient, amount):
     
 
 
-# In[ ]:
 
 
 
